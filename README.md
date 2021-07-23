@@ -1,73 +1,73 @@
 # sm-comic-book-theme
 
 Here is the list of supported systems in Theme:
-32x
-amiga
-amstrad
-apple2
-apps
-arcade
-atari2600
-atari5200
-atari7800
-atari800
-atarilynx
-atarist
-audio
-bbcmicro
-c64
-colecovision
-daphne
-default
-doom
-dos
-famicom
-favorites
-fba
-fds
-gamegear
-games
-gb
-gba
-gbc
-general
-genesis
-gw
-images
-intellivision
-list.txt
-mame
-mastersystem
-megadrive
-msx
-msx2
-n64
-nds
-neogeo
-neogeocd
-nes
-ngp
-ngpc
-openbor
-pcengine
-pcenginecd
-pcenginesgfx
-pico8
-pokemini
-psx
-raine
-satellaview
-scummvm
-segacd
-sfc
-sg1000
-snes
-spectrum
-sufamiturbo
-supervision
-tg16
-tgcd
-vectrex
-video
-wonderswan
-wonderswancolor
+
+* 32x
+* amiga
+* amstrad
+* apple2
+* apps
+* arcade
+* atari2600
+* atari5200
+* atari7800
+* atari800
+* atarilynx
+* atarist
+* audio
+* bbcmicro
+* c64
+* colecovision
+* daphne
+* default
+* doom
+* dos
+* famicom
+* favorites
+* fba
+* fds
+* gamegear
+* games
+* gb
+* gba
+* gbc
+* general
+* genesis
+* gw
+* images
+* intellivision
+* mame
+* mastersystem
+* megadrive
+* msx
+* msx2
+* n64
+* nds
+* neogeo
+* neogeocd
+* nes
+* ngp
+* ngpc
+* openbor
+* pcengine
+* pcenginecd
+* pcenginesgfx
+* pico8
+* pokemini
+* psx
+* raine
+* satellaview
+* scummvm
+* segacd
+* sfc
+* sg1000
+* snes
+* spectrum
+* sufamiturbo
+* supervision
+* tg16
+* tgcd
+* vectrex
+* video
+* wonderswan
+* wonderswancolor
